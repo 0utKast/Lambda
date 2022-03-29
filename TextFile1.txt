@@ -1,0 +1,17 @@
+
+
+
+
+
+
+[clausulaCaptura](parametros) -> tipoRetorno
+    {
+        declaraciones;
+    }
+
+
+
+
+
+
+
